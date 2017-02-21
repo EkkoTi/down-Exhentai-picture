@@ -11,7 +11,7 @@ import itchat
 from itchat.content import *
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, errors = 'replace', line_buffering = True) # print（打印中文）
-values = {'ipb_member_id':'1912783', 'ipb_pass_hash':'64071826da4baa6d6b2cd210119186a9', 'yay': 'louder', 'igneous': '9a915a161', 'lv': '1486572840-1486575927', 'uconfig': 'dm_t'}
+values = {'ipb_member_id':'191', 'ipb_pass_hash':'64071826da4baa6d9', 'yay': 'louder', 'igneous': '9a915a161', 'lv': '1486572840-1486575927', 'uconfig': 'dm_t'}
 
 
 '''---------------创建文件夹名字-----------------'''
